@@ -5,4 +5,4 @@
 
 Primeiro exercicio em elixir para aquecer
 Vamos usar a recursão do elixir
-[exercícios 1](challenges/exercicio1.md)
+[exercícios 1](./challenges/exercicio1.md)
