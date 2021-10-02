@@ -1,8 +1,5 @@
-# hacktoberfest-challenges-2021
+# Hacktoberfest 2021 - Challenges
 
-
-
-
-Primeiro exercicio em elixir para aquecer
-Vamos usar a recursão do elixir
-[exercícios 1](./challenger-1/exercicio1.md)
+Desafio | Linguagens Permitidas | Nível
+--------|-----------------------|------
+[Recursão](/recursao/README.md) | Elixir | Difícil
