@@ -11,7 +11,9 @@ Desafio | Linguagens Permitidas | Nível
 [Cifra de César](/cifra-de-cesar/README.md) | Todas | Médio
 [Fibonacci](/fibonacci/README.md) | Todas | Médio
 [Recursão](/string_c/README.md) | C | Médio
-[Recursão](/recursao/README.md) | Elixir | Difícil
+[Recursão](/recursao/README.md) | Elixir | Médio
+
+Se você quiser adicionar algum desafio é só abrir um Pull Request 😉
 
 ## Como participar
 Veja o [documento de contribuição](CONTRIBUTING.md) para mais informações.
