@@ -1,4 +1,4 @@
-n = int(input('Insira um numero para a efetuar a tabuada: '))
+n = int(input('digite um número: '))
 
-for cont in range (1,11): 
-    print(f'{cont} * {n} eh : {cont * n}')
+for contador in range (1,11): 
+    print(f'{contador} x {n} = {contador * n}')
