@@ -4,6 +4,7 @@
 
 Desafio | Linguagens Permitidas | Nível
 --------|-----------------------|------
+[Senha Fixa](/senha-fixa/README.md) | Todas | Fácil
 [Tabuada](/tabuada/README.md) | Todas | Fácil
 [Cifra de César](/cifra-de-cesar/README.md) | Todas | Médio
 [Fibonacci](/fibonacci/README.md) | Todas | Médio
