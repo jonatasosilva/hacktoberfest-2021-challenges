@@ -3,10 +3,9 @@ mult = 0
 
 for count in range(2,n):
   if (n % count == 0):
-    print("O numero escolhido eh multiplo de " + str(count))
     mult += 1
 
 if(mult == 0):
-  print("Eh primo")
+  print(str(n) + " eh primo")
 else:
-  print("Existem " + str(mult) +" numeros multiplos de 2 ate " + str(n))
+  print(str(n) + " nao eh primo")
