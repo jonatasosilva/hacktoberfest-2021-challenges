@@ -1,5 +1,7 @@
 # Hacktoberfest 2021 - Challenges
 
+O Hacktoberfest é um evento anual que incentiva a participação na comunidade de código aberto. Criamos esse repositório com desafios de programação para incentivar novos desenvolvedores a participarem.
+
 ## Desafios
 
 Desafio | Linguagens Permitidas | Nível
