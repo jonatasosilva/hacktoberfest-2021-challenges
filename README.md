@@ -4,7 +4,9 @@
 
 Desafio | Linguagens Permitidas | Nível
 --------|-----------------------|------
-[Recursão](/recursao/README.md) | Elixir | Difícil
+[Tabuada](/tabuada/README.md) | Todas | Fácil
 [Recursão](/string_c/README.md) | C | Médio
+[Recursão](/recursao/README.md) | Elixir | Difícil
+
 ## Como participar
 Veja o [documento de contribuição](CONTRIBUTING.md) para mais informações.
