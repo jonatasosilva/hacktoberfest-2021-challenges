@@ -4,6 +4,7 @@
 
 Desafio | Linguagens Permitidas | Nível
 --------|-----------------------|------
+[Fatorial Simples](/fatorial-simples/README.md) | Todas | Fácil
 [Senha Fixa](/senha-fixa/README.md) | Todas | Fácil
 [Tabuada](/tabuada/README.md) | Todas | Fácil
 [Cifra de César](/cifra-de-cesar/README.md) | Todas | Médio
