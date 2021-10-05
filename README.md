@@ -7,6 +7,7 @@ O Hacktoberfest é um evento anual que incentiva a participação na comunidade 
 Desafio | Linguagens Permitidas | Nível
 --------|-----------------------|------
 [Fatorial Simples](/fatorial-simples/README.md) | Todas | Fácil
+[Média](/media/README.md) | Todas | Fácil
 [Número Primo](/numero-primo/README.md) | Todas | Fácil
 [Salário com Bônus](/salario-com-bonus/README.md) | Todas | Fácil
 [Senha Fixa](/senha-fixa/README.md) | Todas | Fácil
