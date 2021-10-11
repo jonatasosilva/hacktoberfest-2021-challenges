@@ -1,4 +1,4 @@
-#Verificação de Tipo
+# Verificação de Tipo
 
 Escreva uma função chamada only_ints que leva dois parâmetros. Sua função deve retornar True se ambos os parâmetros forem inteiros e False caso contrário.
 
