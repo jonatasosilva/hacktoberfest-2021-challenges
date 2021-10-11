@@ -16,6 +16,7 @@ Desafio | Linguagens Permitidas | Nível
 [Fibonacci](/fibonacci/README.md) | Todas | Médio
 [Recursão](/string_c/README.md) | C | Médio
 [Recursão](/recursao/README.md) | Elixir | Médio
+[Verificação de Tipo](/Verificação-de-tipo/README.md) | Todas | Fácil
 
 Se você quiser adicionar algum desafio é só abrir um Pull Request 😉
 
